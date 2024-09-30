@@ -1,1 +1,0 @@
-# Daljit-Singh_Gurkirat-Singh_
