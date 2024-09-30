@@ -1,7 +1,7 @@
 # About my project
 This is a team project 
 ## About me
-My name is Daljit singh. I belong from INDIA which is known for rich cultural and vibrant festivals.
+My name is Daljit singh. I come from INDIA which is known for rich cultural and vibrant festivals.
 ## Description
 It is a duo-project in which we have to create our own site.
 # Here are my some of Achievements
